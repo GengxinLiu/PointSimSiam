@@ -26,7 +26,7 @@ Download the data and move it to `../ModelNet40` folder.
 sh run.sh
 ```
 
- ### (4) Linear SVM evaluation
+ ### (4) Linear svm evaluation
 - test the pretrain model using linear svm
 ```
 python eval_linear.py
