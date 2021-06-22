@@ -23,7 +23,7 @@ Download the data and move it to `../ModelNet40` folder.
  ### (3) Training
 - train the self-supervised model on ShapeNet by 
 ```
-sh sh_simsiam.sh
+sh run.sh
 ```
 
  ### (4) Linear SVM evaluation
