@@ -16,9 +16,8 @@ idx_lookup = {
 }
 
 SHAPENET_PATH = "../ShapeNetPoints_2048_pkl"
-SHAPENET_PARTIALSCAN_1_PATH = "../ShapeNetScan_1"
+SHAPENET_PARTIALSCAN_1_PATH = "../ShapeNetScan"
 SHAPENET_PARTIALSCAN_2_PATH = "../ShapeNetScan_2"
-# MODELNET40_PATH = "/dev/shm/gengxin/SSL/ModelNet40"
 MODELNET40_PATH = "../ModelNet40"
 
 
