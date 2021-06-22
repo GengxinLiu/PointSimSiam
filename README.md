@@ -4,7 +4,7 @@
 This code has been tested with Python 3.5, Pytorch 1.5.
 - Setup python environment
 ```
-pip install -r helper_requirements.txt
+pip install -r requirements.txt
 ```
  
  ### (2) Prepare ShapeNet and ModelNet40
