@@ -31,4 +31,4 @@ sh run.sh
 ```
 python eval_linear.py
 ```
-**Note:** You need to modify the model path.
+**Note:** You need to modify the model path in `eval_linear.py`.
